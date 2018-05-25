@@ -1,10 +1,7 @@
-/*----------------------------------------------------------------*/
-/* Autor: Pedro Gabriel Rolando																	  */
-/* E-mail: rolando.pedro.gabriel@gmail.com                        */
-/* Fecha creacion: 20/05/2018                                     */
-/* Fecha actualizacion:                                           */
-/* Descripcion: definicion de secuencia de colores                */
-/*----------------------------------------------------------------*/
+/*Autor: Leonardo Arellanes A rellanes  */
+/*email:leoare14@gmail.com              */
+/*fecha de creacion: 20-05-2018         */
+/*fecha de actualizacion: 25-05-2018    */
 
 #ifndef COLORES_H_
 #define COLORES_H_
